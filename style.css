@@ -1,0 +1,36 @@
+body {
+    background-image: url(img/winter.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#kartka {
+    background-color: rgba(255, 255, 255, 0.834);
+    border: 3px solid red;
+    border-radius: 10px;
+    width: 400px;
+    height: 650px;
+    margin: auto;
+}
+h1 {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+#zyczenia {
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+}
+#photo {
+    margin: auto;
+    width: 300px;
+    padding: 10px;
+}
+#zdj {
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+#podpis {
+    margin-left:300px;
+    font-family: 'Dancing Script', cursive;
+}
